@@ -83,4 +83,7 @@ Retrain the model periodically with new data to keep it up-to-date.
 This process outlines the key steps involved in building and deploying a CNN for image classification. It's important to iterate and experiment with different configurations to achieve the best results for your specific task.
 
 
+![tf_for_cnn_steps](https://github.com/warunasrinath/TensorFlow_seriese/assets/56961480/f76772ff-0ffb-4b64-9299-2ea2446f4251)
+
+
 
